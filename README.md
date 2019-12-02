@@ -8,7 +8,8 @@
 
 1. Unzip the jnote.zip file.
 2. Copy the jnote folder inside the zip and place it at a save place.
-3. Add path of jnote/bin to the **System environment varaibles**.
+3. Add path of `jnote/bin` to the **System environment varaibles**.
+4. Create a new Variable with name **JNOTE_HOME** and value will be the path to `jnote/bin`.
 4. Open command line and type `jnote`
 
 ### That's it enjoy
