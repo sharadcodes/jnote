@@ -4,6 +4,9 @@
 
 > Under development
 
+
+## [Click here to download](https://sharadcodes.github.io/jnote/jnote.zip)
+
 ### How to install
 
 1. Unzip the jnote.zip file.
