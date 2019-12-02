@@ -1,6 +1,6 @@
 # jnote
-
-## A java based note taking app
+## By [Sharad Raj](https://sharadcodes.github.io)
+### A cmd based note taking app built in Java
 
 > Under development
 
@@ -11,8 +11,8 @@
 
 1. Unzip the jnote.zip file.
 2. Copy the jnote folder inside the zip and place it at a save place.
-3. Add path of `jnote/bin` to the **System environment varaibles**.
-4. Create a new Variable with name **JNOTE_HOME** and value will be the path to `jnote/bin`.
+3. Add path of `jnote/bin` to the **System environment variables**.
+4. Create a new Variable with name **JNOTE_HOME** and value will be the path to `jnote/bin` and save it.
 4. Open command line and type `jnote`
 
 ### That's it enjoy
