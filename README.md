@@ -10,7 +10,7 @@
 ### How to install
 
 1. Unzip the jnote.zip file.
-2. Copy the jnote folder inside the zip and place it at a save place.
+2. Copy the jnote folder inside the zip and place it at a safe place.
 3. Add path of `jnote/bin` to the **System environment variables**.
 4. Create a new Variable with name **JNOTE_HOME** and value will be the path to `jnote/bin` and save it.
 4. Open command line and type `jnote`
